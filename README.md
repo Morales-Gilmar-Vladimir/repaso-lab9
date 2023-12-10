@@ -1,4 +1,4 @@
-#LABORATORIO 9 
+# LABORATORIO 9
 
 Repaso de temas del laboratorio 9 
 -Rutas
@@ -10,7 +10,7 @@ Repaso de temas del laboratorio 9
 
 ## Authors
 
-- [@Paulesh5](https://www.github.com/Paulesh5)
+-[@Morales-Gilmar-Vladimir](https://github.com/Morales-Gilmar-Vladimir)
 
 
 ## Capturas
